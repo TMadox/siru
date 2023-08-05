@@ -4,7 +4,7 @@
       "details": [
       {
         "appID": "EEEHKY573T.com.siruapp.app",
-        "paths": ["/":"*"]
+        "paths": ["*"]
       }
     ]
   }
